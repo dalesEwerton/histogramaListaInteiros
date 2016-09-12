@@ -4,13 +4,11 @@
  *  Created on: 11 de set de 2016
  *      Author: Dales Ewerton
  */
-
-#include<cstdlib>
-
-using namespace std;
+#include "funcoes.h"
 
 #define QTD_NUMEROS_LIDOS 15
 #define QTD_NUMEROS_HISTOGRAMA 10
+
 int main(int argc, char* argv[]){
 
 	float listaNumeros[QTD_NUMEROS_LIDOS];

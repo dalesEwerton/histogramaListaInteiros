@@ -5,7 +5,7 @@
  *      Author: Dales Ewerton
  */
 
-#include <funcoes.h>
+#include "funcoes.h"
 
 void geraHistograma(float lista[15], float histograma[10][2]){
 
